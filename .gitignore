@@ -1,0 +1,20 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Files & Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual Environment
+venv/
+resume_venv/
+ENV/
+
+# Local SQLite Database
+database/resumealign.db
+
+# OS Files
+.DS_Store
+Thumbs.db
